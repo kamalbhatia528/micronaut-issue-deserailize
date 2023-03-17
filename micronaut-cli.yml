@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, azure-function, azure-function-http, gradle, jackson-databind, java, java-application, logback, micronaut-build, mongo-sync, readme, serialization-bson, serialization-jackson, spock, test-resources, yaml]
